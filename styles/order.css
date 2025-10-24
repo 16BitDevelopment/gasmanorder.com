@@ -1,0 +1,25 @@
+h1 {
+    margin: 3rem 2rem;
+
+    font-size: 5em;
+
+    text-align: center;
+}
+
+section .section-text h2 {
+    margin-bottom: 2em;
+
+    font-size: 3em;
+    font-weight: 700;
+}
+
+section .section-text h3 {
+    color: var(--accent-font-colour);
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+section .section-text p {
+    color: var(--accent-font-colour);
+    font-size: 1.25em;
+}
